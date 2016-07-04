@@ -1,9 +1,11 @@
 package ua.alx.test;
 
+import javax.swing.JOptionPane;
+
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello from Git Hub!!!");
+		JOptionPane.showMessageDialog(null,"Hello from Git Hub!!!");
 
 	}
 
